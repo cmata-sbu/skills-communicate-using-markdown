@@ -14,3 +14,8 @@ import java.util.HashMap;
 
 HashMap<String, Integer> leaderboard = new HashMap<>();
 ```
+
+## Task List Example (Clean Room Checklist):
+- [x] Make your bed
+- [ ] Declutter your desk space
+- [ ] Make the room look nice
